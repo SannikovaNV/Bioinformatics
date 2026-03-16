@@ -1,0 +1,11 @@
+patient,sample,lane,fastq_1,fastq_2
+1,S10,1,path/to/S10_Reverse,path/to/S10_Forward
+2,S11,2,path/to/S10_Reverse,path/to/S10_Forward
+3,S12,3,path/to/S10_Reverse,path/to/S10_Forward
+4,S13,4,path/to/S10_Reverse,path/to/S10_Forward
+5,S14,5,path/to/S10_Reverse,path/to/S10_Forward
+6,S15,6,path/to/S10_Reverse,path/to/S10_Forward
+7,S16,7,path/to/S10_Reverse,path/to/S10_Forward
+8,S17,8,path/to/S10_Reverse,path/to/S10_Forward
+9,S18,9,path/to/S10_Reverse,path/to/S10_Forward
+10,S19,10,path/to/S10_Reverse,path/to/S10_Forward
